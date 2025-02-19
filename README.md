@@ -17,12 +17,9 @@ Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <br>
   <img src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
-  <img src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
-  <img src ="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white"/></a>&nbsp 
   <br>
   <img src ="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
   <img src ="https://img.shields.io/badge/Scikitlearn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/></a>&nbsp 
-  <img src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
