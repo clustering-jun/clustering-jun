@@ -15,7 +15,6 @@ Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <br>
   <img src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
   <br>
   <img src ="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp 
