@@ -1,18 +1,10 @@
-<div align="center">
-
-![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=Shin_BG.&desc=Machine/Deep%20Learning%20AI%20Engineer&fontColor=ffffff&fontAlign=15&fontAlignY=27&color=0:000000,100:ffffff&fontSize=35&descAlign=25&descAlignY=48)
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teto-ri&theme=graywhite&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
-
-###  My Notion Career & Portfolio : 
+###  My : 
 
 👉 [LINK](https://tetori.notion.site/ByeongGeun-Shin-e9b48c7b407a46ef8ab678e3a8e3c822) 👈
 
 <p>
-  <a href="https://twitter.com/Teto_Ri" target="_blank"><img src="https://img.shields.io/badge/Teto_Ri-000000?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/s.hin_bg/" target="_blank"><img src="https://img.shields.io/badge/s.hin_bg-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://tetori.notion.site/ByeongGeun-Shin-e9b48c7b407a46ef8ab678e3a8e3c822" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-
-  <a href="mailto:byeonggeun.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/byeonggeun.ml@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ioppjj0809@naver.com" target="_blank"><img src="https://img.shields.io/badge/ioppjj0809@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 </p>
 
 ### 👋About Me 
