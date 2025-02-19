@@ -1,22 +1,17 @@
 ###  My : 
-
-👉 [LINK](https://tetori.notion.site/ByeongGeun-Shin-e9b48c7b407a46ef8ab678e3a8e3c822) 👈
-
 <p>
-<a href="mailto:ioppjj0809@naver.com" target="_blank"><img src="https://img.shields.io/badge/ioppjj0809@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto:cluster115623@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ioppjj0809@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 </p>
 
 ### 👋About Me 
-Working 🔭 ML/DL Engineer & Studying in Pusan Nation Univ CSE
 
-Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`, `NLP`, `GenAI`, `System Trading/Quant`
+Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`
 
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <br>
   <img src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
   <img src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
@@ -26,8 +21,6 @@ Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`, `NLP`, `
   <img src ="https://img.shields.io/badge/Scikitlearn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white"/></a>&nbsp 
   <img src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
 </p> <!--   뱃지 제작 참고: https://2dowon.netlify.app/etc/github-badge/ -->
