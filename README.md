@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 👋About Me 
-
+I am currently pursuing a Bachelor's degree in Artificial Intelligence and Information Engineering at Gyeongsang National University in South Korea.
 Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`
 
 <!-- Tech Stack -->
