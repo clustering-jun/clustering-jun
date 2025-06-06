@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 👋About Me 
-I am currently pursuing a Bachelor's degree in Artificial Intelligence and Information Engineering at Gyeongsang National University, South Korea.
+I am currently pursuing a B.S. degree in Artificial Intelligence and Information Engineering at Gyeongsang National University.
 
 Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`
 
