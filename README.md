@@ -3,7 +3,7 @@
 ### 👋About Me 
 I am currently pursuing a B.S. degree in Artificial Intelligence and Information Engineering at Gyeongsang National University.
 
-Learning `ML/DL`, `Data Analysis`, Personal interest `Computer Vision`
+My academic focus includes `ML`, `DL`, and `Data Analysis`. Additionally, I have a personal research interest in `Computer Vision`.
 
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
