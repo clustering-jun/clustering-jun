@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 👋About Me 
-I am currently pursuing a B.S. degree in Artificial Intelligence and Information Engineering at Gyeongsang National University.
+I am currently pursuing a B.E. degree in Artificial Intelligence and Information Engineering at Gyeongsang National University.
 
 My academic focus includes `ML`, `DL`, and `Data Analysis`. Additionally, I have a personal research interest in `Computer Vision`.
 
